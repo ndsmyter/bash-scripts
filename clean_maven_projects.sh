@@ -21,6 +21,7 @@
 #       VERSION:  1.0
 #       CREATED:  2018-12-19
 #      REVISION:  ---
+#       LICENSE:  GNU General Public License v3.0
 #===============================================================================
 
 tmp_file=/tmp/files_to_cleanup.txt
